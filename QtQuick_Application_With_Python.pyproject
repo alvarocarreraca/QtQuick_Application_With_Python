@@ -1,0 +1,3 @@
+{
+    "files": ["chartsControl.py","serialPortControl.py","main.py","qml/pages/WelcomePage.qml","qml/pages/settingsPage.qml","qml/controls/LeftMenuBtn.qml","qml/controls/ToggleBtn.qml","qml/controls/CustomButton.qml","qml/pages/homePage.qml","qml/controls/TopBarButton.qml","qml/main.qml","qml/pages/performancePage.qml"]
+}
